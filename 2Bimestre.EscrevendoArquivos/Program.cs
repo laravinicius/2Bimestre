@@ -17,7 +17,7 @@ static void CriaPasta(string pastaArquivo)
     }
     else
     {
-        Console.WriteLine("Pasta já existe");
+        Console.WriteLine("Pasta não existe");
     }
 }
 
